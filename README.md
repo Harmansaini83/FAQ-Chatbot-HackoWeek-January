@@ -1,5 +1,6 @@
 📘 FAQ CHATBOT FOR STUDENT QUERIES
-Second Year Mini Project Report
+Hackoweek project January month.
+Google colab link -  https://colab.research.google.com/drive/1tLN9yJK4ad_H_B-0z5Lg5TYjuy6tODXi#scrollTo=IN_2e425YvZ5
 ________________________________________
 1. INTRODUCTION
 In educational institutions, students frequently ask repetitive questions related to admissions, fees, hostel, exams, and administration. Handling such queries manually consumes time and resources.
